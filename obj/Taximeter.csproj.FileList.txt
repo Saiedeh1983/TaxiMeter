@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Taximeter.Properties.Resources.resources
+obj\Debug\Taximeter.csproj.GenerateResource.Cache
+bin\Debug\Taximeter.exe
+bin\Debug\Taximeter.pdb
+obj\Debug\Taximeter.exe
+obj\Debug\Taximeter.pdb
+obj\Debug\Taximeter.Main.resources
+obj\Debug\Taximeter.Services.resources
+bin\Debug\Taximeter.exe.config
+obj\Debug\Taximeter.Taxi.resources
+obj\Debug\Taximeter.Account.resources
